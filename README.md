@@ -3,7 +3,7 @@
 <body>
     <div>
         <ul style="font-size: 25px; font-family: Georgia, 'Times New Roman', Times, serif;">
-            <li style="list-style: circle;">Pretendo Trabalhar com FullStack</li>
+            <li style="list-style: circle;">Pretendo Trabalhar com FrontEnd</li>
             <li style="list-style: circle;">Estudante De Técnico em DS</li>
         </ul>
     </div>
